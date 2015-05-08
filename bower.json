@@ -1,0 +1,22 @@
+{
+  "name": "Dynamic Menu",
+  "version": "1",
+  "authors": [
+    "Dave Decano <johndavedecano@gmail.com>"
+  ],
+  "description": "Creates a dynamic menu using Jquery",
+  "main": "dynamic_menu.js",
+  "keywords": [
+    "dynamic",
+    "menu"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

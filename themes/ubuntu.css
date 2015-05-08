@@ -1,0 +1,21 @@
+.dynamic_menu_items {
+   background-color: #333333;
+}
+.dynamic_menu_items ul {
+
+}
+.dynamic_menu_items ul li  {
+
+}
+.dynamic_menu_items ul li a  {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    padding:4px;
+    text-align: left;
+}
+.dynamic_menu_items ul li a:hover  {
+    background-color:#dd4814;
+}
+
+
